@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enrique</h1>
-<h3 align="center">Una veces se gana, otras se aprende</h3>
+<h3 align="center">Unas veces se gana, otras se aprende</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquefernandezchacon&label=Profile%20views&color=0e75b6&style=flat" alt="enriquefernandezchacon" /> </p>
 
